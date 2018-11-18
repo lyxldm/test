@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerdept80/customerdept80.iml" filepath="$PROJECT_DIR$/customerdept80/customerdept80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerdept80feign/customerdept80feign.iml" filepath="$PROJECT_DIR$/customerdept80feign/customerdept80feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka7001/eureka7001.iml" filepath="$PROJECT_DIR$/eureka7001/eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka7002/eureka7002.iml" filepath="$PROJECT_DIR$/eureka7002/eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka7003/eureka7003.iml" filepath="$PROJECT_DIR$/eureka7003/eureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixdashboard/hystrixdashboard9001.iml" filepath="$PROJECT_DIR$/hystrixdashboard/hystrixdashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudzuulgateway9527/microservicecloudzuulgateway9527.iml" filepath="$PROJECT_DIR$/microservicecloudzuulgateway9527/microservicecloudzuulgateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerdept8001/providerdept8001.iml" filepath="$PROJECT_DIR$/providerdept8001/providerdept8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerdept8001hystrix/providerdept8001hystrix.iml" filepath="$PROJECT_DIR$/providerdept8001hystrix/providerdept8001hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerdept8002/providerdept8002.iml" filepath="$PROJECT_DIR$/providerdept8002/providerdept8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerdept8003/providerdept8003.iml" filepath="$PROJECT_DIR$/providerdept8003/providerdept8003.iml" />
+    </modules>
+  </component>
+</project>
